@@ -8,9 +8,9 @@ var navigate = (function() {
 })();
 
 var style = document.querySelector(".code pre style");
-/*var card = document.querySelector(".front face back face");
+var card = document.querySelector(".front face back face");
 
-
+/*
 script = "\nHello there!\n we are going to make a penguine using css\nfirst you need to difine these classes \nin your html code\n  <div class=\"penguin\">\n  <div class=\"penguin-bottom\">\n    <div class=\"right-hand\"></div>\n    <div class=\"left-hand\"></div>\n    <div class=\"right-feet\"></div>\n    <div class=\"left-feet\"></div>\n  </div>\n  <div class=\"penguin-top\">\n    <div class=\"right-cheek\"></div>\n    <div class=\"left-cheek\"></div>\n    <div class=\"belly\"></div>\n    <div class=\"right-eye\">\n      <div class=\"sparkle\"></div>\n    </div>\n    <div class=\"left-eye\">\n      <div class=\"sparkle\"></div>\n    </div>\n    <div class=\"blush-right\"></div>\n    <div class=\"blush-left\"></div>\n    <div class=\"beak-top\"></div>\n    <div class=\"beak-bottom\"></div>\n  </div>\n</div>\n\nafter that lets add css\n :root {\n    --penguin-size: 300px;\n    --penguin-skin: gray;\n    --penguin-belly: white;\n    --penguin-beak: orange;\n  }\n  \n  @media (max-width: 350px) {\n    :root {\n      \n      /* add code below */
 \
 n\ n /* add code above */ \ n\ n
