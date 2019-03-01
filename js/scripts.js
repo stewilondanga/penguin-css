@@ -43,7 +43,7 @@ n\ n.left - cheek {\
   n border - radius: 70 % 70 % 60 % 60 % ;\
   n
 }\
-/*n\ n.belly {\
+n\ n.belly {\
   n top: 60 % ;\
   n left: 2.5 % ;\
   n background: var (--penguin - belly, white);\
@@ -52,7 +52,7 @@ n\ n.left - cheek {\
   n border - radius: 120 % 120 % 100 % 100 % ;\
   n
 }\
-n\ n.penguin - top {\
+/*n\ n.penguin - top {\
   n top: 10 % ;\
   n left: 25 % ;\
   n background: var (--penguin - skin, gray);\
