@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,88 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  height: 100vh;
+  background: teal;
+  color: #eee;
+}
+.code style {
+  font-family: monospace;
+  font-size: 0.8rem;
+  background: rgba(255,255,255,0.2);
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  max-height: 80vh;
+	width: 300px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.card {
+  width: 40vw;
+  height: 50vh;
+  background: #fefefe;
+}
+
+
+/* A bit of proper layout then */
+/*.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+@media screen and (max-width: 500px) {
+   .container {
+     flex-direction: column;
+    }
+	.card{
+		width: 90%;
+	}
+	.code{
+		width: 70%;
+	}
+}
+
+
+
+.card {
+  animation-name: rollUp;
+	animation-duration: infinite;
+}
+
+
+@keyframes rollUp {
+  0% {
+    opacity: 0;
+    transform: translateY(-50vh);
+  }
+  10% {
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.card {
+  position: relative;
+}
+.card:before {
+  color: #252525;
+  font-family: monospace;
+  font-size: 2rem;
+  font-weight: bold;
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
 }
 
 .containers {
