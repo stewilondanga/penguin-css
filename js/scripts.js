@@ -16,7 +16,7 @@ n\ n /* add code above */ \ n\ n
 }\
 n
 }\
-/*n\ n.penguin {\
+n\ n.penguin {\
   n position: relative;\
   n margin: auto;\
   n display: block;\
@@ -25,7 +25,7 @@ n
   n height: var (--penguin - size, 300 px);\
   n
 }\
-n\ n.right - cheek {\
+/*n\ n.right - cheek {\
   n top: 15 % ;\
   n left: 35 % ;\
   n background: var (--penguin - belly, white);\
