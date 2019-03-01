@@ -152,7 +152,7 @@ n\ n.left - eye {\
   n border - radius: 50 % ;\
   n
 }\
-/*n\ n.sparkle {\
+n\ n.sparkle {\
   n top: 25 % ;\
   n left: -23 % ;\
   n background: white;\
@@ -161,7 +161,7 @@ n\ n.left - eye {\
   n border - radius: 50 % ;\
   n
 }\
-n\ n.blush - right {\
+/*n\ n.blush - right {\
   n top: 65 % ;\
   n left: 15 % ;\
   n background: pink;\
