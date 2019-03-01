@@ -201,12 +201,12 @@ n\ n body {\
   n background: #c6faf1;\
   n
 }\
-/*n\ n.penguin * {\
+n\ n.penguin * {\
   n position: absolute;\n
 }\
-n ";
+/*n ";
 
-var counter = 0;
+/*var counter = 0;
 
 var intervalID = setInterval(function() {
   counter++;
