@@ -25,7 +25,7 @@ n\ n.penguin {\
   n height: var (--penguin - size, 300 px);\
   n
 }\
-/*n\ n.right - cheek {\
+n\ n.right - cheek {\
   n top: 15 % ;\
   n left: 35 % ;\
   n background: var (--penguin - belly, white);\
@@ -34,7 +34,7 @@ n\ n.penguin {\
   n border - radius: 70 % 70 % 60 % 60 % ;\
   n
 }\
-n\ n.left - cheek {\
+/*n\ n.left - cheek {\
   n top: 15 % ;\
   n left: 5 % ;\
   n background: var (--penguin - belly, white);\
