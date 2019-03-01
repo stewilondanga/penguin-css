@@ -112,7 +112,7 @@ n\ n.left - hand {\
   n z - index: -1;\
   n
 }\
-/*n\ n.right - feet {\
+n\ n.right - feet {\
   n top: 85 % ;\
   n left: 60 % ;\
   n background: var (--penguin - beak, orange);\
@@ -123,7 +123,7 @@ n\ n.left - hand {\
   n z - index: -2222;\
   n
 }\
-n\ n.left - feet {\
+/*n\ n.left - feet {\
   n top: 85 % ;\
   n left: 25 % ;\
   n background: var (--penguin - beak, orange);\
