@@ -52,7 +52,7 @@ n\ n.belly {\
   n border - radius: 120 % 120 % 100 % 100 % ;\
   n
 }\
-/*n\ n.penguin - top {\
+n\ n.penguin - top {\
   n top: 10 % ;\
   n left: 25 % ;\
   n background: var (--penguin - skin, gray);\
@@ -61,7 +61,7 @@ n\ n.belly {\
   n border - radius: 70 % 70 % 60 % 60 % ;\
   n
 }\
-n\ n.penguin - bottom {\
+/*n\ n.penguin - bottom {\
   n top: 40 % ;\
   n left: 23.5 % ;\
   n background: var (--penguin - skin, gray);\
