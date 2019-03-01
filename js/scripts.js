@@ -197,11 +197,11 @@ n\ n.beak - bottom {\
   n border - radius: 50 % ;\
   n
 }\
-/*n\ n body {\
+n\ n body {\
   n background: #c6faf1;\
   n
 }\
-n\ n.penguin * {\
+/*n\ n.penguin * {\
   n position: absolute;\n
 }\
 n ";
