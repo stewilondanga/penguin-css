@@ -161,7 +161,7 @@ n\ n.sparkle {\
   n border - radius: 50 % ;\
   n
 }\
-/*n\ n.blush - right {\
+n\ n.blush - right {\
   n top: 65 % ;\
   n left: 15 % ;\
   n background: pink;\
@@ -170,7 +170,7 @@ n\ n.sparkle {\
   n border - radius: 50 % ;\
   n
 }\
-n\ n.blush - left {\
+/*n\ n.blush - left {\
   n top: 65 % ;\
   n left: 70 % ;\
   n background: pink;\
