@@ -143,7 +143,7 @@ n\ n.right - eye {\
   n border - radius: 50 % ;\
   n
 }\
-/*n\ n.left - eye {\
+n\ n.left - eye {\
   n top: 45 % ;\
   n left: 25 % ;\
   n background: black;\
@@ -152,7 +152,7 @@ n\ n.right - eye {\
   n border - radius: 50 % ;\
   n
 }\
-n\ n.sparkle {\
+/*n\ n.sparkle {\
   n top: 25 % ;\
   n left: -23 % ;\
   n background: white;\
