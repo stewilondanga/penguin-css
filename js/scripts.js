@@ -123,7 +123,7 @@ n\ n.right - feet {\
   n z - index: -2222;\
   n
 }\
-/*n\ n.left - feet {\
+n\ n.left - feet {\
   n top: 85 % ;\
   n left: 25 % ;\
   n background: var (--penguin - beak, orange);\
@@ -134,7 +134,7 @@ n\ n.right - feet {\
   n z - index: -2222;\
   n
 }\
-n\ n.right - eye {\
+/*n\ n.right - eye {\
   n top: 45 % ;\
   n left: 60 % ;\
   n background: black;\
