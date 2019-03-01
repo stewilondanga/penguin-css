@@ -188,7 +188,7 @@ n\ n.beak - top {\
   n border - radius: 50 % ;\
   n
 }\
-/*n\ n.beak - bottom {\
+n\ n.beak - bottom {\
   n top: 65 % ;\
   n left: 42 % ;\
   n background: var (--penguin - beak, orange);\
@@ -197,7 +197,7 @@ n\ n.beak - top {\
   n border - radius: 50 % ;\
   n
 }\
-n\ n body {\
+/*n\ n body {\
   n background: #c6faf1;\
   n
 }\
