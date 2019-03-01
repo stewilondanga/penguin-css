@@ -89,7 +89,7 @@
   position: relative;
 }
 
-/*.card:before {
+.card:before {
   color: #252525;
   font-family: monospace;
   font-size: 2rem;
@@ -99,7 +99,7 @@
   left: 1rem;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
