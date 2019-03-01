@@ -70,7 +70,7 @@ n\ n.penguin - bottom {\
   n border - radius: 70 % 70 % 100 % 100 % ;\
   n
 }\
-/*n\ n.right - hand {\
+n\ n.right - hand {\
   n top: 5 % ;\
   n left: 25 % ;\
   n background: var (--penguin - skin, black);\
@@ -86,7 +86,7 @@ n\ n.penguin - bottom {\
   n animation - timing - function: linear;\
   n
 }\
-n\ n @keyframes wave {\
+/*n\ n @keyframes wave {\
   n 10 % {\
     n transform: rotate(110 deg);\n
   }\
