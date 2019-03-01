@@ -19,13 +19,13 @@
   height: 1.5em;
 }
 
-/*
 .container {
   height: 100vh;
   background: teal;
   color: #eee;
 }
-.code style {
+
+/*.code style {
   font-family: monospace;
   font-size: 0.8rem;
   background: rgba(255,255,255,0.2);
