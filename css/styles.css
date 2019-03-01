@@ -50,19 +50,21 @@
   align-items: center;
 }
 
-/*@media screen and (max-width: 500px) {
-   .container {
-     flex-direction: column;
-    }
-	.card{
-		width: 90%;
-	}
-	.code{
-		width: 70%;
-	}
+@media screen and (max-width: 500px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .card {
+    width: 90%;
+  }
+
+  .code {
+    width: 70%;
+  }
 }
 
-
+/*
 
 .card {
   animation-name: rollUp;
