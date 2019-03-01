@@ -44,12 +44,13 @@
 }
 
 /* A bit of proper layout then */
-/*.container {
+.container {
   display: flex;
   justify-content: space-around;
   align-items: center;
 }
-@media screen and (max-width: 500px) {
+
+/*@media screen and (max-width: 500px) {
    .container {
      flex-direction: column;
     }
