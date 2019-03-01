@@ -170,7 +170,7 @@ n\ n.blush - right {\
   n border - radius: 50 % ;\
   n
 }\
-/*n\ n.blush - left {\
+n\ n.blush - left {\
   n top: 65 % ;\
   n left: 70 % ;\
   n background: pink;\
@@ -179,7 +179,7 @@ n\ n.blush - right {\
   n border - radius: 50 % ;\
   n
 }\
-n\ n.beak - top {\
+/*n\ n.beak - top {\
   n top: 60 % ;\
   n left: 40 % ;\
   n background: var (--penguin - beak, orange);\
