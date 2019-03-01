@@ -86,7 +86,7 @@ n\ n.right - hand {\
   n animation - timing - function: linear;\
   n
 }\
-/*n\ n @keyframes wave {\
+n\ n @keyframes wave {\
   n 10 % {\
     n transform: rotate(110 deg);\n
   }\
@@ -101,7 +101,7 @@ n\ n.right - hand {\
   }\
   n
 }\
-n\ n.left - hand {\
+/*n\ n.left - hand {\
   n top: 0 % ;\
   n left: 75 % ;\
   n background: var (--penguin - skin, gray);\
