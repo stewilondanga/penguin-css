@@ -61,7 +61,7 @@ n\ n.penguin - top {\
   n border - radius: 70 % 70 % 60 % 60 % ;\
   n
 }\
-/*n\ n.penguin - bottom {\
+n\ n.penguin - bottom {\
   n top: 40 % ;\
   n left: 23.5 % ;\
   n background: var (--penguin - skin, gray);\
@@ -70,7 +70,7 @@ n\ n.penguin - top {\
   n border - radius: 70 % 70 % 100 % 100 % ;\
   n
 }\
-n\ n.right - hand {\
+/*n\ n.right - hand {\
   n top: 5 % ;\
   n left: 25 % ;\
   n background: var (--penguin - skin, black);\
