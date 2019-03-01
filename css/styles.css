@@ -37,12 +37,11 @@
   overflow-x: hidden;
 }
 
-/*.card {
+.card {
   width: 40vw;
   height: 50vh;
   background: #fefefe;
 }
-
 
 /* A bit of proper layout then */
 /*.container {
