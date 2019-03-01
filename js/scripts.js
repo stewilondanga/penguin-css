@@ -134,7 +134,7 @@ n\ n.left - feet {\
   n z - index: -2222;\
   n
 }\
-/*n\ n.right - eye {\
+n\ n.right - eye {\
   n top: 45 % ;\
   n left: 60 % ;\
   n background: black;\
@@ -143,7 +143,7 @@ n\ n.left - feet {\
   n border - radius: 50 % ;\
   n
 }\
-n\ n.left - eye {\
+/*n\ n.left - eye {\
   n top: 45 % ;\
   n left: 25 % ;\
   n background: black;\
