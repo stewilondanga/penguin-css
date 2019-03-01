@@ -85,11 +85,11 @@
   }
 }
 
-/*
 .card {
   position: relative;
 }
-.card:before {
+
+/*.card:before {
   color: #252525;
   font-family: monospace;
   font-size: 2rem;
